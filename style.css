@@ -14,9 +14,7 @@ body {
 
 #hex-colors {
   text-align: center;
-  padding: 20px;
-  border-radius: 15px;
-  background-color: red;
+  padding: 50px;
 }
 
 #hex-colors h1 {
