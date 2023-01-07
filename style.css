@@ -24,6 +24,7 @@ body {
 
 .hex-code-wrapper {
   font-weight: bold;
+  font-size: 2rem;
 }
 
 @media (max-width: 480px) {
